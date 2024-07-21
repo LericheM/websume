@@ -1,0 +1,20 @@
+body{
+    background-color: cornsilk;
+}
+@font-face {
+    font-family: 'cousine_for_powerlineregular';
+    src: url('cousine_for_powerline-webfont.woff2') format('woff2'),
+         url('cousine_for_powerline-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1{
+    font-family: cousine_for_powerlineregular ;
+    text-align: center;
+}
+h2{
+    font-family: cousine_for_powerlineregular;
+    text-align: center;
+}
